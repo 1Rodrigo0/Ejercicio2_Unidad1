@@ -1,0 +1,48 @@
+ <!DOCTYPE html>
+  <html>
+    <head>
+      <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+    	<nav>
+    		<div class="nav-wrapper black">
+    			<a href="" class="brand-logo">VideoGamer</a>
+    			<ul id="nav-mobile" class="right hide-on-med-and-down">
+    				<li><a href="">Inicio</a></li>
+    				<li><a href="">Más Productos</a></li>
+    				<li><a href="">Sobre Nosotros</a></li>
+    			</ul>
+    		</div>
+    	</nav>
+    	<h1 align="center">Venta de Videojuegos</h1>
+    	<div align="center">
+    			<p>Venga rápido aquí tenemos muchos videojuegos a un muy buen precio desde juegos para niños hasta para los adultos que quieran recordar su niñez como por ejemplo:</p>
+    	</div>
+    	<br>
+    	<table border="0">
+    		<tr>
+    			<td><img src="img/E1.jpg" height="100px">......PROXIMAMENTE DOWLAND<div class="row"><div class="col l8 blue lighten-4"><p>Videojuego de Galaga de los arcades de los años 1982 en las maquinitas.</p></div></div></td>
+    		</tr>
+    		<br>
+    		<tr>
+    			<td><img src="img/E2.jpg" height="100px">......DISPONIBLE EN LA TIENDA A Q450<div class="row"><div class="col l8 blue lighten-4"><p>Videojuego super famoso y más comprado en el mundo que es Super Smash Bros Ultimate de la nueva generación del año del 2018 en la nueva consola de Nintendo Switch, aproveche ahora para llevarselo que es un super precio y es nuevo, sin abrir y con caja.</p></div></div></td>
+    		</tr>
+    		<br>
+    		<tr>
+    			<td><img src="img/E3.jpg" height="100px">......PROXIMAMENTE DOWLAND<div class="row"><div class="col l8 blue lighten-4"><p>Videojuego de Donkey Kong de los arcades de los años de 1982 en las maquinitas.</p></div></div></td>
+    		</tr>
+    		<br>
+    		<tr>
+    			<td><img src="img/E4.jpg" height="100px">......DISPONIBLE EN LA TIENDA A Q400<div class="row"><div class="col l8 blue lighten-4"><p>Videojuego de The Legend of Zelda de la nueva generación del año 2017 para la nueva consola de Nintendo Switch</p></div></div></td>
+    		</tr>
+    		<br>
+    	</table>
+
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+  </html>
+  
